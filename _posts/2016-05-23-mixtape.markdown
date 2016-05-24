@@ -1,0 +1,34 @@
+--
+layout: post
+title:  "My Mixtape"
+date:   2016-05-23 23:58:08 +0300
+
+---
+
+Here's some Music from New orleans:
+
+[Come See About Me][come-see] The Supremes
+[These Days][these-days]
+[Sexual Healing][sexual-healing] Hot 8 Brass Band (Marvin Gaye Cover)
+[That's All Goodnight][all-goodnight] The Woes
+[Losing You][losing-you] Solange
+[Please Mr. Postman][postman] The Marvelettes
+[Mamma Said][mama-said] The Shirelles
+
+James Booker
+Allen Tousaint
+Proffesor Longhair
+Preservation Hall Jazz Band
+Nina Simone
+Sam Cooke
+James Brown
+
+
+
+[come-see]: https://youtu.be/PycKSdKG_74
+[these-days]:   https://www.youtube.com/watch?v=-nGLqXZ-f70
+[sexual-healing]: https://www.youtube.com/watch?v=ZsDUXo5TcZY
+[all-goodnight]: https://www.youtube.com/watch?v=q_X6ieFNf-Q
+[losing-you]: https://www.youtube.com/watch?v=Hy9W_mrY_Vk
+[postman]: https://www.youtube.com/watch?v=425GpjTSlS4
+[mama-said]: https://www.youtube.com/watch?v=WQlImg2bm28
