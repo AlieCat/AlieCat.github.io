@@ -10,7 +10,7 @@ permalink: /Resume/
 ##Professional Experience
 
 -------------------|---------------------------
-###IBM Global Business Systems** | Baton Rouge, LA
+###IBM Global Business Systems | Baton Rouge, LA
 **Application Development Specialist** | July 2014 - April 2016
 Developed sales demos for IBM's software using IBM Experience Modeler to create 'day in the life' 
 user experience presentations and wireframes. Gained practical experience using of XLST, XML, HTML5, CSS3, and Javascript. 
@@ -31,12 +31,14 @@ Organized and taught weekly classes on Python programming and designed a web-bas
 Created and actively maintained the website for Tulane Women in Technology and organized an online archive of female parade groups in New Orleans and their web presence.
 
 ##Education
+
 --------------|----------------------------------------------------------------
 **Bachelor of Science & Engineering, Biomedical Engineering**|August 2010 - May 2014
 Minor in Philosophy|GPA:3.4
 **Tulane University**, New Orleans, LA| Founder's Scholarship
 
 ##Skills
+
 ---------------------|--------------
 **Programming**| Python, HTML, CSS, Javascript, Java, C++, XSLT, XML, XPATH
 **Software**| Adobe Suites, Microsoft Office, MATLAB, SolidWorks
@@ -45,6 +47,7 @@ Minor in Philosophy|GPA:3.4
 **Coursework**| Project and Embedded Control Systems, Bio-imag Processing, Cadaver Lab
 
 ##Volunteering
+
 -----------------------|-----------
 **Web Designer**| June 2013 - May 2014
 Ancient Ancestors, Nonprofit Organization, New Orleans LA

@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Alexandra Eiseman
+title: Resume
+name: Alexandra Eiseman
 phone: us:+1-504-656-4439 il:+972-052-322-8827
+email: aliee91@gmail.com
 permalink: /Resume/
 ---
 
 ##Professional Experience
+
 -------------------|---------------------------
 ###IBM Global Business Systems** | Baton Rouge, LA
 **Application Development Specialist** | July 2014 - April 2016
