@@ -1,17 +1,16 @@
 ---
 layout: page
 title: Resume
-name: Alexandra Eiseman
+myname: Alexandra Eiseman
 phone: us:+1-504-656-4439 il:+972-052-322-8827
 email: aliee91@gmail.com
 permalink: /Resume/
 ---
 
-##Professional Experience##
+## Professional Experience
 
 -------------------|---------------------------
-###IBM Global Business Systems | Baton Rouge, LA###
-
+### IBM Global Business Systems | Baton Rouge, LA
 **Application Development Specialist** | July 2014 - April 2016
 Developed sales demos for IBM's software using IBM Experience Modeler to create 'day in the life' 
 user experience presentations and wireframes. Gained practical experience using of XLST, XML, HTML5, CSS3, and Javascript. 
