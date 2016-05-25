@@ -7,16 +7,17 @@ email: aliee91@gmail.com
 permalink: /Resume/
 ---
 
-##Professional Experience
+##Professional Experience##
 
 -------------------|---------------------------
-###IBM Global Business Systems | Baton Rouge, LA
+###IBM Global Business Systems | Baton Rouge, LA###
+
 **Application Development Specialist** | July 2014 - April 2016
 Developed sales demos for IBM's software using IBM Experience Modeler to create 'day in the life' 
 user experience presentations and wireframes. Gained practical experience using of XLST, XML, HTML5, CSS3, and Javascript. 
 Confident in the us of Adobe Suites products to design webpages before creating them with a team.
 
-###Department of Biomedical Engineering Tulane University | New Orleans, LA
+###Department of Biomedical Engineering Tulane University | New Orleans, LA###
 **Ventilator Associated Pneumonia Prevention** | August 2012 - May 2014
 Co-designed an angle measuring device and user interface for lowering patient risk of hospital acquired pneumonia and bed sores by constantly tracking patient angles and alerting care takers.
 **Optimization of Spring Powered Stilts** | August 2012 - May 2014
@@ -24,20 +25,20 @@ Researched the relationship between Stilts and Prosthetics and modeled designs f
 **Teaching Assistant in Statics** | January 2014 - May 2014
 Graded Homeworks, Tests, and projects in Static Engineeing class. Assisted students to grasp concepts involving static design and basic physics engineering equations.
 
-###Collat Media Lab, Newcomb-Tulane College
+###Collat Media Lab, Newcomb-Tulane College###
 **Programming Workshop Leader** | January 2014 - May 2014
 Organized and taught weekly classes on Python programming and designed a web-based learning app using Python.
 **Web Designer & Webmaster** | May 2013 - May 2014
 Created and actively maintained the website for Tulane Women in Technology and organized an online archive of female parade groups in New Orleans and their web presence.
 
-##Education
+##Education##
 
 --------------|----------------------------------------------------------------
 **Bachelor of Science & Engineering, Biomedical Engineering**|August 2010 - May 2014
 Minor in Philosophy|GPA:3.4
 **Tulane University**, New Orleans, LA| Founder's Scholarship
 
-##Skills
+##Skills##
 
 ---------------------|--------------
 **Programming**| Python, HTML, CSS, Javascript, Java, C++, XSLT, XML, XPATH
@@ -46,7 +47,7 @@ Minor in Philosophy|GPA:3.4
 **Languages**| Romanian, English
 **Coursework**| Project and Embedded Control Systems, Bio-imag Processing, Cadaver Lab
 
-##Volunteering
+##Volunteering##
 
 -----------------------|-----------
 **Web Designer**| June 2013 - May 2014
