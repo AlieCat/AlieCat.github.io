@@ -2,11 +2,73 @@
 layout: default
 ---
 
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="script.js"></script>
+
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+<div class='circle-container'>
+  <a href='#' id="resume" class='card deg0 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
+  <p class="menu-item">
+  Resume
+  </p>
+  
+  <img style="display:none;" src='http://imgsrc.hubblesite.org/hu/db/images/hs-1994-02-c-thumb.jpg'>
+  </a>
+	<a href='#' class='card deg45 image-cropper2 flexParent'onclick="this.classList.toggle('flipped')">
+  <p class="menu-item">
+  Music
+  </p>
+  
+  <img style="display:none;" src='http://imgsrc.hubblesite.org/hu/db/images/hs-2005-37-a-thumb.jpg'></a>
+	<a href='#' class='card deg135 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
+  <p class="menu-item">
+  Photos
+  </p>
+  <img style="display:none;" src='http://imgsrc.hubblesite.org/hu/db/images/hs-2010-26-a-thumb.jpg'></a>
+	<a href='#' class='card deg180 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
+  <p class="menu-item">
+  Writing
+  </p>
+  <img style="display:none;" src='http://imgsrc.hubblesite.org/hu/db/images/hs-2004-27-a-thumb.jpg'></a>
+	<a href='#' class='card deg225 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
+  <p class="menu-item">
+  Store
+  </p>
+  <img style="display:none;" src='http://imgsrc.hubblesite.org/hu/db/images/hs-1992-17-a-thumb.jpg'></a>
+	<a href='#' class='card deg315 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
+  <p class="menu-item">
+  Contact
+  </p>
+  <img style="display:none;" src='http://imgsrc.hubblesite.org/hu/db/images/hs-2004-32-d-thumb.jpg'>
+  
+  </a>
 
-  <ul class="post-list">
+  <div class="flexParent" id="center">
+  <section class="image-cropper">
+    <div id="coin" class="card" onclick="flip()">
+      <div class="front image-cropper"><img src="http://i2.kym-cdn.com/photos/images/original/001/018/967/0fb.gif" />
+      </div>
+      <div class="back image-cropper"><img style="max-width:220px;" src="http://3.bp.blogspot.com/-qMOYeGUR5ms/VmYLZ2OF-cI/AAAAAAAAL68/88mLyramMhw/s400/tumblr_mwndagtu5I1t10gp8o1_500.gif"></div>
+
+    </div>
+  </section>
+  <section>
+  <div class="flexParent">
+  <p id="who">
+      Alie Cat is working on stuff!
+    </p>
+
+  </div>
+  </section>
+
+  </div>
+</div>
+
+ <!-- <h1 class="page-heading"></h1>-->
+
+  <!--<ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -16,8 +78,8 @@ layout: default
         </h2>
       </li>
     {% endfor %}
-  </ul>
+  </ul>-->
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<!--  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
 
 </div>
