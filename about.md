@@ -7,8 +7,8 @@ email: aliee91@gmail.com
 permalink: /Resume/
 ---
 ## Education
----
 
+---
 | **Bachelor of Science & Engineering,****Biomedical Engineering**    | August 2010 - May 2014 |
 |:------------------------------------------------------------------- | ----------------------:|
 | Minor: Philosophy                             		      |                GPA:3.4 |

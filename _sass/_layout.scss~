@@ -202,11 +202,6 @@
 .post-header {
     margin-bottom: $spacing-unit;
 }
-.post-title {
-	display:flex;
-	flex-direction:row;
-	justify-content: space-between;
-}
 
 .post-title {
     font-size: 42px;
