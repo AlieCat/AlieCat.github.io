@@ -44,17 +44,13 @@ Confident in the us of Adobe Suites products to design webpages before creating 
 **Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Ventilator Associated Pneumonia Prevention** | **August 2012 - May 2014**
-
 Co-designed an angle measuring device and user interface for lowering patient 
 risk of hospital acquired pneumonia and bed sores by constantly tracking patient angles 
-and alerting care takers.
-
+and alerting care takers.||
 **Optimization of Spring Powered Stilts** | **August 2012 - May 2014**
-:---------------------------------|-----------------:
-
 Researched the relationship between Stilts and Prosthetics and modeled designs for improving 
 fiberglass stilts for extended use in parade culture as well as suggestions for more cost 
-efficient adjustable prosthetic designs.
+efficient adjustable prosthetic designs.||
 
 **Teaching Assistant in Statics** | **January 2014 - May 2014**
 :---------------------------------|-----------------:
