@@ -9,14 +9,14 @@ layout: default
 <div class="home">
 
 <div class='circle-container'>
-  <a id="resume" class='card deg0 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')" href="{{ my_page.url | prepend: site.baseurl }}">>
+  <a id="resume" class='card deg0 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')" href="/Resume/">
   <p class="menu-item">
   Resume
   </p>
   
   <img style="display:none;" src='http://imgsrc.hubblesite.org/hu/db/images/hs-1994-02-c-thumb.jpg'>
   </a>
-	<a href='#' class='card deg45 image-cropper2 flexParent'onclick="this.classList.toggle('flipped')">
+	<a href='/Music/' class='card deg45 image-cropper2 flexParent'onclick="this.classList.toggle('flipped')">
   <p class="menu-item">
   Music
   </p>
