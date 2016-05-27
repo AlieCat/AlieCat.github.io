@@ -13,9 +13,9 @@ width:100%}
 ## Education
 ---
 
-| **Bachelor of Science & Engineering,** **Biomedical Engineering**            | August 2010 - May 2014 |
+| **Bachelor of Science & Engineering,**            | August 2010 - May 2014 |
 |:--------------------------------------------------------------------------- | ----------------------:|
-| Minor: Philosophy                             		              |                GPA:3.4 |
+| **Biomedical Engineering** Minor: Philosophy                             		              |                GPA:3.4 |
 | **Tulane University**, New Orleans, LA                                      |  Founder's Scholarship |
 
 ## Skills
@@ -26,7 +26,7 @@ width:100%}
 **Software**                                     | Adobe Suites, Microsoft Office, MATLAB, SolidWorks
 **Content Management Systems**                   | WordPress, Jekyll, Squarespace, Joomla, Droopal
 **Languages**                                    | Romanian, English
-**Coursework**                                   | Project and Embedded Control Systems, Bio-imag Processing
+**Coursework**                                   | Project and Embedded Control Systems, Bio-image Processing
 
 ## Professional Experience
 ---

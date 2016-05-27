@@ -18,22 +18,24 @@ width:100%}
 | **Biomedical Engineering** Minor: Philosophy                             		              |                GPA:3.4 |
 | **Tulane University**, New Orleans, LA                                      |  Founder's Scholarship |
 
+
 ## Skills
 ---
 
 ----------------------------------------------------------------------------------------------|--------------
 **Programming**                                  | Python, HTML, CSS, Javascript, Java, C++, XSLT, XML, XPATH
 **Software**                                     | Adobe Suites, Microsoft Office, MATLAB, SolidWorks
-**Content Management Systems**                   | WordPress, Jekyll, Squarespace, Joomla, Droopal
+**CMS**                                          | WordPress, Jekyll, Squarespace, Joomla, Droopal
 **Languages**                                    | Romanian, English
 **Coursework**                                   | Project and Embedded Control Systems, Bio-image Processing
+
 
 ## Professional Experience
 ---
 
+---------------------------------|-----------------
 #### IBM Global Business Systems | Baton Rouge, LA
-
-**Application Development Specialist, July 2014 - April 2016**
+**Application Development Specialist**| **July 2014 - April 2016**
 
 Developed sales demos for IBM's software using IBM Experience Modeler to create 'day in the life' 
 user experience presentations and wireframes. Gained practical experience using of XLST, XML, HTML5, CSS3, and Javascript. 
