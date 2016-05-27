@@ -6,10 +6,14 @@ phone: us:+1-504-656-4439 il:+972-052-322-8827
 email: aliee91@gmail.com
 permalink: /Resume/
 ---
+<style>
+table{
+width:100%}
+</style>
 ## Education
 ---
 
-|{width:500px}. **Bachelor of Science & Engineering,** **Biomedical Engineering**            | August 2010 - May 2014 |
+| **Bachelor of Science & Engineering,** **Biomedical Engineering**            | August 2010 - May 2014 |
 |:--------------------------------------------------------------------------- | ----------------------:|
 | Minor: Philosophy                             		              |                GPA:3.4 |
 | **Tulane University**, New Orleans, LA                                      |  Founder's Scholarship |
