@@ -9,7 +9,7 @@ permalink: /Resume/
 ## Education
 ---
 
-| **Bachelor of Science & Engineering,** **Biomedical Engineering**            | August 2010 - May 2014 |
+|{width:70%}. **Bachelor of Science & Engineering,** **Biomedical Engineering**            | August 2010 - May 2014 |
 |:--------------------------------------------------------------------------- | ----------------------:|
 | Minor: Philosophy                             		              |                GPA:3.4 |
 | **Tulane University**, New Orleans, LA                                      |  Founder's Scholarship |
