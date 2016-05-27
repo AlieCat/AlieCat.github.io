@@ -8,19 +8,19 @@ permalink: /Resume/
 ---
 ## Education
 
-| **Bachelor of Science & Engineering**  | August 2010 - May 2014 |
-| -------------------------------------- | ----------------------:|
-| **Biomedical Engineering**, Philosophy |                GPA:3.4 |
-| **Tulane University**, New Orleans, LA |  Founder's Scholarship |
+| **Bachelor of Science & Engineering**                               | August 2010 - May 2014 |
+| ------------------------------------------------------------------- | ----------------------:|
+| **Biomedical Engineering**, Philosophy                              |                GPA:3.4 |
+| **Tulane University**, New Orleans, LA                              |  Founder's Scholarship |
 
 ## Skills
 
----------------------|--------------
-**Programming**| Python, HTML, CSS, Javascript, Java, C++, XSLT, XML, XPATH
-**Software**| Adobe Suites, Microsoft Office, MATLAB, SolidWorks
-**CMS**| WordPress, Jekyll, Squarespace, Joomla, Droopal
-**Languages**| Romanian, English
-**Coursework**| Project and Embedded Control Systems, Bio-imag Processing
+-------------------------------------------------|--------------
+**Programming**                                  | Python, HTML, CSS, Javascript, Java, C++, XSLT, XML, XPATH
+**Software**                                     | Adobe Suites, Microsoft Office, MATLAB, SolidWorks
+**CMS**                                          | WordPress, Jekyll, Squarespace, Joomla, Droopal
+**Languages**                                    | Romanian, English
+**Coursework**                                   | Project and Embedded Control Systems, Bio-imag Processing
 
 ## Professional Experience
 
