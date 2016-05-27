@@ -9,7 +9,7 @@ permalink: /Resume/
 ## Education
 ---
 
-| **Bachelor of Science & Engineering,****Biomedical Engineering**            | August 2010 - May 2014 |
+| **Bachelor of Science & Engineering,** **Biomedical Engineering**            | August 2010 - May 2014 |
 |:--------------------------------------------------------------------------- | ----------------------:|
 | Minor: Philosophy                             		              |                GPA:3.4 |
 | **Tulane University**, New Orleans, LA                                      |  Founder's Scholarship |
@@ -17,7 +17,7 @@ permalink: /Resume/
 ## Skills
 ---
 
--------------------------------------------------|--------------
+----------------------------------------------------------------------------------------------|--------------
 **Programming**                                  | Python, HTML, CSS, Javascript, Java, C++, XSLT, XML, XPATH
 **Software**                                     | Adobe Suites, Microsoft Office, MATLAB, SolidWorks
 **Content Management Systems**                   | WordPress, Jekyll, Squarespace, Joomla, Droopal
