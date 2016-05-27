@@ -8,8 +8,8 @@ permalink: /Resume/
 ---
 ## Education
 
-| **Bachelor of Science & Engineering**                               | August 2010 - May 2014 |
-| ------------------------------------------------------------------- | ----------------------:|
+| **Bachelor of Science & Engineering**                    .| August 2010 - May 2014 |
+|:------------------------------------------------------------------- | ----------------------:|
 | **Biomedical Engineering**, Philosophy                              |                GPA:3.4 |
 | **Tulane University**, New Orleans, LA                              |  Founder's Scholarship |
 
@@ -18,7 +18,7 @@ permalink: /Resume/
 -------------------------------------------------|--------------
 **Programming**                                  | Python, HTML, CSS, Javascript, Java, C++, XSLT, XML, XPATH
 **Software**                                     | Adobe Suites, Microsoft Office, MATLAB, SolidWorks
-**CMS**                                          | WordPress, Jekyll, Squarespace, Joomla, Droopal
+**CMS**                  .| WordPress, Jekyll, Squarespace, Joomla, Droopal
 **Languages**                                    | Romanian, English
 **Coursework**                                   | Project and Embedded Control Systems, Bio-imag Processing
 
@@ -27,7 +27,7 @@ permalink: /Resume/
 #### IBM Global Business Systems | Baton Rouge, LA
 ---
 
-##### Application Development Specialist, July 2014 - April 2016
+**Application Development Specialist, July 2014 - April 2016**
 Developed sales demos for IBM's software using IBM Experience Modeler to create 'day in the life' 
 user experience presentations and wireframes. Gained practical experience using of XLST, XML, HTML5, CSS3, and Javascript. 
 Confident in the us of Adobe Suites products to design webpages before creating them with a team.
@@ -35,7 +35,7 @@ Confident in the us of Adobe Suites products to design webpages before creating 
 #### Department of Biomedical Engineering Tulane University | New Orleans, LA
 ---
 
-##### Ventilator Associated Pneumonia Prevention, August 2012 - May 2014
+**Ventilator Associated Pneumonia Prevention, August 2012 - May 2014**
 Co-designed an angle measuring device and user interface for lowering patient 
 risk of hospital acquired pneumonia and bed sores by constantly tracking patient angles 
 and alerting care takers.
