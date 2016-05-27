@@ -7,12 +7,12 @@ email: aliee91@gmail.com
 permalink: /Resume/
 ---
 ## Education
-
 ---
-| **Bachelor of Science & Engineering,****Biomedical Engineering**    | August 2010 - May 2014 |
-|:------------------------------------------------------------------- | ----------------------:|
-| Minor: Philosophy                             		      |                GPA:3.4 |
-| **Tulane University**, New Orleans, LA                              |  Founder's Scholarship |
+
+| **Bachelor of Science & Engineering,****Biomedical Engineering**            | August 2010 - May 2014 |
+|:--------------------------------------------------------------------------- | ----------------------:|
+| Minor: Philosophy                             		              |                GPA:3.4 |
+| **Tulane University**, New Orleans, LA                                      |  Founder's Scholarship |
 
 ## Skills
 ---
@@ -20,7 +20,7 @@ permalink: /Resume/
 -------------------------------------------------|--------------
 **Programming**                                  | Python, HTML, CSS, Javascript, Java, C++, XSLT, XML, XPATH
 **Software**                                     | Adobe Suites, Microsoft Office, MATLAB, SolidWorks
-**Content Management Systems**                  | WordPress, Jekyll, Squarespace, Joomla, Droopal
+**Content Management Systems**                   | WordPress, Jekyll, Squarespace, Joomla, Droopal
 **Languages**                                    | Romanian, English
 **Coursework**                                   | Project and Embedded Control Systems, Bio-imag Processing
 
