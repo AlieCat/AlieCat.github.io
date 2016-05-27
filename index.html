@@ -9,7 +9,7 @@ layout: default
 <div class="home">
 
 <div class='circle-container'>
-  <a href='#' id="resume" class='card deg0 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
+  <a id="resume" class='card deg0 image-cropper2 flexParent page-link' onclick="this.classList.toggle('flipped')" href="{{ my_page.url | prepend: site.baseurl }}">>
   <p class="menu-item">
   Resume
   </p>
