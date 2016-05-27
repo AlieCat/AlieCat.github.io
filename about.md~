@@ -44,16 +44,21 @@ Confident in the us of Adobe Suites products to design webpages before creating 
 **Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Ventilator Associated Pneumonia Prevention** | **August 2012 - May 2014**
+
 Co-designed an angle measuring device and user interface for lowering patient 
 risk of hospital acquired pneumonia and bed sores by constantly tracking patient angles 
-and alerting care takers.||
+and alerting care takers.
+
+**Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
+:---------------------------------|-----------------:
 **Optimization of Spring Powered Stilts** | **August 2012 - May 2014**
 Researched the relationship between Stilts and Prosthetics and modeled designs for improving 
 fiberglass stilts for extended use in parade culture as well as suggestions for more cost 
-efficient adjustable prosthetic designs.||
+efficient adjustable prosthetic designs.
 
-**Teaching Assistant in Statics** | **January 2014 - May 2014**
+**Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
 :---------------------------------|-----------------:
+**Teaching Assistant in Statics** | **January 2014 - May 2014**
 
 Graded Homeworks, Tests, and projects in Static Engineeing class. Assisted students to grasp 
 concepts involving static design and basic physics engineering equations.
@@ -65,8 +70,9 @@ concepts involving static design and basic physics engineering equations.
 Organized and taught weekly classes on Python programming and 
 designed a web-based learning app using Python.
 
-**Web Designer & Webmaster**| **May 2013 - May 2014**
+**Collat Media Lab, Newcomb-Tulane College** | **New Orleans, LA**
 :---------------------------------|-----------------:
+**Web Designer & Webmaster**| **May 2013 - May 2014**
 
 Created and actively maintained the website for Tulane Women in Technology and 
 organized an online archive of female parade groups in New Orleans and their web presence.
@@ -74,7 +80,8 @@ organized an online archive of female parade groups in New Orleans and their web
 ## Volunteering
 ---
 
-
-**Web Designer**| June 2013 - May 2014
+**Ancient Ancestors** | **New Orleans, LA**
+:---------------------------------|-----------------:
+**Web Designer** | **June 2013 - May 2014**
 
 Ancient Ancestors, Nonprofit Organization, New Orleans LA

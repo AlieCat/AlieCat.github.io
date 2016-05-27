@@ -52,6 +52,7 @@ and alerting care takers.
 **Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Optimization of Spring Powered Stilts** | **August 2012 - May 2014**
+
 Researched the relationship between Stilts and Prosthetics and modeled designs for improving 
 fiberglass stilts for extended use in parade culture as well as suggestions for more cost 
 efficient adjustable prosthetic designs.
