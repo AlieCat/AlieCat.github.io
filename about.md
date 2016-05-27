@@ -10,8 +10,8 @@ permalink: /Resume/
 ## Professional Experience
 
 #### IBM Global Business Systems | Baton Rouge, LA
----------------------------------------|-------------------------
-**Application Development Specialist** | July 2014 - April 2016
+| -------------------------------------- | ----------------------:|
+| **Application Development Specialist** | July 2014 - April 2016 |
 Developed sales demos for IBM's software using IBM Experience Modeler to create 'day in the life' 
 user experience presentations and wireframes. Gained practical experience using of XLST, XML, HTML5, CSS3, and Javascript. 
 Confident in the us of Adobe Suites products to design webpages before creating them with a team.
