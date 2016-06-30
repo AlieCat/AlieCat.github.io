@@ -12,7 +12,7 @@ Here's some Music
 <p>Come See About Me</p>
 <p>The Supremes</p>
 <audio controls>
-  <source src="_posts/music/ComeSeeAboutMe.mp3" type="audio/mp3">
+  <source src="../_posts/music/ComeSeeAboutMe.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio>
 
