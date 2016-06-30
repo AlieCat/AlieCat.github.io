@@ -32,6 +32,11 @@ width:100%}
 
 ## Professional Experience
 ---
+**IBM Cyber Security** | **Be'er Sheva, Israel**
+:---------------------------------|-----------------:
+**Application Developer**| **June 2016 - August 2016**
+
+Helped to develop a application that works with QRADAR called Attack Simulator that simulated what cyber attacks might look like and how to react. Worked with python, Flask, and AngularJS to develope a flow chart display for the user that connected to the java back end.
 
 **IBM Global Business Systems** | **Baton Rouge, LA**
 :---------------------------------|-----------------:
