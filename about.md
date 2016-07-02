@@ -32,6 +32,7 @@ width:100%}
 
 ## Professional Experience
 ---
+
 **IBM Cyber Security** | **Be'er Sheva, Israel**
 :---------------------------------|-----------------:
 **Application Developer**| **June 2016 - August 2016**
