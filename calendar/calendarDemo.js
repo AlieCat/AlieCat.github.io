@@ -3,6 +3,8 @@
  */
 var calendarDemoApp = angular.module('calendarDemoApp', ['ui.calendar', 'ui.bootstrap']);
 
+var CLIENT_ID = '339848629041-oaf6tkiqu1riovdov62gv5eaufo3re2o.apps.googleusercontent.com';
+
 calendarDemoApp.controller('CalendarCtrl',
    function($scope, $compile, $timeout, uiCalendarConfig) {
     var date = new Date();
@@ -13,11 +15,14 @@ calendarDemoApp.controller('CalendarCtrl',
     $scope.changeTo = 'Hungarian';
     /* event source that pulls from google.com */
     $scope.eventSource = {
-            url: "http://www.google.com/calendar/feeds/usa__en%40holiday.calendar.google.com/public/basic",
+	    
+            url: "https://calendar.google.com/calendar/embed?src=aliee91%40gmail.com&ctz=America/Chicago",
             className: 'gcal-event',           // an option!
             currentTimezone: 'America/Chicago' // an option!
     };
+
     /* event source that contains custom events on the scope */
+	
     $scope.events = [
       {title: 'All Day Event',start: new Date(y, m, 1)},
       {title: 'Long Event',start: new Date(y, m, d - 5),end: new Date(y, m, d - 2)},
@@ -26,6 +31,7 @@ calendarDemoApp.controller('CalendarCtrl',
       {title: 'Birthday Party',start: new Date(y, m, d + 1, 19, 0),end: new Date(y, m, d + 1, 22, 30),allDay: false},
       {title: 'Click for Google',start: new Date(y, m, 28),end: new Date(y, m, 29),url: 'http://google.com/'}
     ];
+	
     /* event source that calls a function on every view switch */
     $scope.eventsF = function (start, end, timezone, callback) {
       var s = new Date(start).getTime() / 1000;
