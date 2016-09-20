@@ -3,6 +3,8 @@
  */
 var calendarDemoApp = angular.module('calendarDemoApp', ['ui.calendar', 'ui.bootstrap']);
 
+var CLIENT_ID = '339848629041-oaf6tkiqu1riovdov62gv5eaufo3re2o.apps.googleusercontent.com';
+
 calendarDemoApp.controller('CalendarCtrl',
    function($scope, $compile, $timeout, uiCalendarConfig) {
     var date = new Date();
@@ -13,7 +15,8 @@ calendarDemoApp.controller('CalendarCtrl',
     $scope.changeTo = 'Hungarian';
     /* event source that pulls from google.com */
     $scope.eventSource = {
-            url: "http://www.google.com/calendar/feeds/usa__en%40holiday.calendar.google.com/public/basic",
+	    
+            url: "https://calendar.google.com/calendar/embed?src=aliee91%40gmail.com&ctz=America/Chicago",
             className: 'gcal-event',           // an option!
             currentTimezone: 'America/Chicago' // an option!
     };
