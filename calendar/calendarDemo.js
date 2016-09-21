@@ -7,7 +7,7 @@
 
 var calendarDemoApp = angular.module('calendarDemoApp', ['ui.calendar', 'ui.bootstrap']);
 
-var CLIENT_ID = 'FQT92smrw-UAI5hB1h8kjBdX';
+
 
 calendarDemoApp.controller('CalendarCtrl',
    function($scope, $compile, $timeout, uiCalendarConfig) {
@@ -15,12 +15,14 @@ calendarDemoApp.controller('CalendarCtrl',
     var d = date.getDate();
     var m = date.getMonth();
     var y = date.getFullYear();
+    var CLIENT_ID = 'FQT92smrw-UAI5hB1h8kjBdX';
 
     $scope.changeTo = 'Hungarian';
     /* event source that pulls from google.com */
+	
     $scope.eventSource = {
-	    
-            url: "339848629041-oaf6tkiqu1riovdov62gv5eaufo3re2o.apps.googleusercontent.com",
+	    googleCalendarApiKey: 'FQT92smrw-UAI5hB1h8kjBdX',
+            googleCalendarId: "339848629041-oaf6tkiqu1riovdov62gv5eaufo3re2o.apps.googleusercontent.com",
             className: 'gcal-event',           // an option!
             currentTimezone: 'America/Chicago' // an option!
     };
