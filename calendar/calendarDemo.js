@@ -15,6 +15,7 @@ calendarDemoApp.controller('CalendarCtrl',
     var d = date.getDate();
     var m = date.getMonth();
     var y = date.getFullYear();
+    var apiKey ='FQT92smrw-UAI5hB1h8kjBdX';
 
 
     $scope.changeTo = 'Hungarian';
@@ -22,6 +23,7 @@ calendarDemoApp.controller('CalendarCtrl',
 	$scope.eventSource = {
 	    googleCalendarApiKey: 'FQT92smrw-UAI5hB1h8kjBdX',
 	    googleCalendarId: '339848629041-oaf6tkiqu1riovdov62gv5eaufo3re2o.apps.googleusercontent.com',
+	    url: '339848629041-oaf6tkiqu1riovdov62gv5eaufo3re2o.apps.googleusercontent.com',
 	    className: 'gcal-event' // an option!
 	};
 
