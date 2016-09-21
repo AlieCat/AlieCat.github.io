@@ -7,7 +7,7 @@
 
 var calendarDemoApp = angular.module('calendarDemoApp', ['ui.calendar', 'ui.bootstrap']);
 
-var CLIENT_ID = '339848629041-oaf6tkiqu1riovdov62gv5eaufo3re2o.apps.googleusercontent.com';
+var CLIENT_ID = 'FQT92smrw-UAI5hB1h8kjBdX';
 
 calendarDemoApp.controller('CalendarCtrl',
    function($scope, $compile, $timeout, uiCalendarConfig) {
@@ -20,7 +20,7 @@ calendarDemoApp.controller('CalendarCtrl',
     /* event source that pulls from google.com */
     $scope.eventSource = {
 	    
-            url: "https://calendar.google.com/calendar/ical/no5bm9k36rh4c121nu89s2rr8o%40group.calendar.google.com/private-798e3e8e1881674143167a162875eb36/basic.ics",
+            url: "339848629041-oaf6tkiqu1riovdov62gv5eaufo3re2o.apps.googleusercontent.com",
             className: 'gcal-event',           // an option!
             currentTimezone: 'America/Chicago' // an option!
     };
