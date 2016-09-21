@@ -20,7 +20,7 @@ calendarDemoApp.controller('CalendarCtrl',
     /* event source that pulls from google.com */
     $scope.eventSource = {
 	    
-            url: "https://calendar.google.com/calendar/embed?src=aliee91%40gmail.com&ctz=America/Chicago",
+            url: "https://calendar.google.com/calendar/ical/aliee91%40gmail.com/public/basic.ics",
             className: 'gcal-event',           // an option!
             currentTimezone: 'America/Chicago' // an option!
     };
