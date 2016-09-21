@@ -87,8 +87,22 @@ organized an online archive of female parade groups in New Orleans and their web
 ## Volunteering
 ---
 
+**World Wide organic Farming** | **Harduf, Israel**
+:---------------------------------|-----------------:
+**Volunteer Farmer** | **August 2016 - September 2016**
+
+Farmed on a kibbutz in conjunction with Hiram,
+ a nonprofit seeks to help youth who suffer from emotional problems
+
+**Israel Youth Hostels** | **Tiberius, Israel**
+:---------------------------------|-----------------:
+**Hostel Worker** | **April 2016 - May 2016**
+
+Helped to host guests from all over the world traveling to Tiberius a popular
+vacation spot on the sea of Galilee near the jordan river
+
 **Ancient Ancestors** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Web Designer** | **June 2013 - May 2014**
 
-Ancient Ancestors, Nonprofit Organization, New Orleans LA
+Helped to develop the website for a traveling evolution education nonprofit organization.
