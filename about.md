@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 myname: Alexandra Eiseman
-phone: us:+1-504-656-4439 il:+972-052-322-8827
+phone: 504-656-4439
 email: aliee91@gmail.com
 permalink: /Resume/
 ---
