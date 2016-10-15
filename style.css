@@ -111,8 +111,8 @@ section p{
   padding-bottom:30%;
 }
 .image-cropper2 {
-    width: 10em;
-    height: 10em;
+    width: 15em;
+    height: 15em;
     z-index:2;
     position:absolute;
     overflow: hidden;
