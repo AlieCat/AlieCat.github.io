@@ -10,17 +10,18 @@ permalink: /Resume/
 table{
 width:100%}
 </style>
-## Education
 ---
+## Education
+
 
 | **Bachelor of Science & Engineering,**            | August 2010 - May 2014 |
 |:--------------------------------------------------------------------------- | ----------------------:|
 | **Biomedical Engineering** Minor: Philosophy                             		              |                GPA:3.4 |
 | **Tulane University**, New Orleans, LA                                      |  Founder's Scholarship |
 
-
-## Skills
 ---
+## Skills
+
 
 ----------------------------------------------------------------------------------------------|--------------
 **Programming**                                  | Python, HTML, CSS, Javascript, Java, C++, XSLT, XML, XPATH
@@ -29,9 +30,9 @@ width:100%}
 **Languages**                                    | Romanian, English
 **Coursework**                                   | Project and Embedded Control Systems, Bio-image Processing
 
-
-## Professional Experience
 ---
+## Professional Experience
+
 
 **IBM Cyber Security** | **Be'er Sheva, Israel**
 :---------------------------------|-----------------:
@@ -84,8 +85,9 @@ designed a web-based learning app using Python.
 Created and actively maintained the website for Tulane Women in Technology and 
 organized an online archive of female parade groups in New Orleans and their web presence.
 
-## Volunteering
 ---
+## Volunteering
+
 
 **World Wide organic Farming** | **Harduf, Israel**
 :---------------------------------|-----------------:
