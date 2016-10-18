@@ -132,7 +132,7 @@ section p{
 	position: relative;
 	width: 34em;
 	height: 34em;
-	/*padding: 2.8em; *//*= 2em * 1.4 (2em = half the width of an img, 1.4 = sqrt(2))*/
+	padding: 2.8em; /*= 2em * 1.4 (2em = half the width of an img, 1.4 = sqrt(2))*/
 	border-radius: 50%;
   background-color:#E8EAEA;
 	margin: 0em auto 0;
