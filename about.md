@@ -11,6 +11,7 @@ table{
 width:100%}
 </style>
 ---
+
 ## Education
 
 
@@ -20,6 +21,7 @@ width:100%}
 | **Tulane University**, New Orleans, LA                                      |  Founder's Scholarship |
 
 ---
+
 ## Skills
 
 
@@ -31,6 +33,7 @@ width:100%}
 **Coursework**                                   | Project and Embedded Control Systems, Bio-image Processing
 
 ---
+
 ## Professional Experience
 
 
@@ -86,6 +89,7 @@ Created and actively maintained the website for Tulane Women in Technology and
 organized an online archive of female parade groups in New Orleans and their web presence.
 
 ---
+
 ## Volunteering
 
 
