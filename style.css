@@ -54,7 +54,7 @@ img {
 .front img{
   width: 100%;
   overflow: hidden;
-  
+  margin-top: -5%;
     /*padding-top:13%;*/
 }
 .back img{
