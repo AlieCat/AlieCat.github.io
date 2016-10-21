@@ -1,0 +1,8 @@
+.circle-container img {display: block; width: 100%; }
+.deg0 { transform: rotate(330deg) translate($radius) rotate(-330deg);
+        } /* 12em = half the width of the wrapper */
+.deg45 { transform: rotate(10deg) translate($radius) rotate(-10deg); }
+.deg135 { transform: rotate(170deg) translate($radius) rotate(-170deg); }
+.deg180 { transform: rotate(30deg) translate(-$radius) rotate(-30deg); }
+.deg225 { transform: rotate(250deg) translate($radius) rotate(-250deg); }
+.deg315 { transform: rotate(290deg) translate($radius) rotate(-290deg); }
