@@ -134,9 +134,9 @@ section p{
 	position: relative;
 	max-width: 34em;
 	max-height: 34em;
-	width:80vw;
-	height:80vw;
-	padding: 5vw; /*= 2em * 1.4 (2em = half the width of an img, 1.4 = sqrt(2))*/
+	width:90vw;
+	height:90vw;
+	/*padding: 5vw; = 2em * 1.4 (2em = half the width of an img, 1.4 = sqrt(2))*/
 	border-radius: 50%;
   background-color:#E8EAEA;
 	margin: 0em auto 0;
@@ -151,10 +151,10 @@ section p{
 	margin: -2em; /* 2em = 4em/2 */ /* half the width */
 }
 .circle-container img {display: block; width: 100%; }
-.deg0 { transform: rotate(330deg) translate(31vw) rotate(-330deg);
+.deg0 { transform: rotate(330deg) translate(35vw) rotate(-330deg);
         } /* 12em = half the width of the wrapper */
-.deg45 { transform: rotate(10deg) translate(31vw) rotate(-10deg); }
-.deg135 { transform: rotate(170deg) translate(31vw) rotate(-170deg); }
-.deg180 { transform: rotate(30deg) translate(-31vw) rotate(-30deg); }
-.deg225 { transform: rotate(250deg) translate(31vw) rotate(-250deg); }
-.deg315 { transform: rotate(290deg) translate(31vw) rotate(-290deg); }
+.deg45 { transform: rotate(10deg) translate(35vw) rotate(-10deg); }
+.deg135 { transform: rotate(170deg) translate(35vw) rotate(-170deg); }
+.deg180 { transform: rotate(30deg) translate(-35vw) rotate(-30deg); }
+.deg225 { transform: rotate(250deg) translate(35vw) rotate(-250deg); }
+.deg315 { transform: rotate(290deg) translate(35vw) rotate(-290deg); }
