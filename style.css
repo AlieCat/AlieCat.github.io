@@ -55,13 +55,13 @@ img {
   width: 100%;
   overflow: hidden;
   
-    padding-top:13%;
+    /*padding-top:13%;*/
 }
 .back img{
   min-height:200px;
   height:2.5em;
   width:auto;
-  padding-top:.15em;
+  /*padding-top:.15em;*/
 }
 .card {
     width: 100%;
@@ -150,7 +150,7 @@ section p{
 	width: 4em; height: 4em;
 	margin: -2em; /* 2em = 4em/2 */ /* half the width */
 }
-.circle-container img {display: block; width: 100%; }
+.circle-container img {display: block; height:100%; }
 .deg0 { transform: rotate(330deg) translate(35vw) rotate(-330deg);
         } /* 12em = half the width of the wrapper */
 .deg45 { transform: rotate(10deg) translate(35vw) rotate(-10deg); }
