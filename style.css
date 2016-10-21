@@ -54,7 +54,7 @@ img {
 .front img{
   width: 100%;
   overflow: hidden;
-  min-height:200px;
+  
     padding-top:13%;
 }
 .back img{
