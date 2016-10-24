@@ -4,9 +4,15 @@ layout: default
 
 
 <link rel="stylesheet" type="text/css" href="style.css">
-<link rel="stylesheet" type="text/css" href="_sass/style.scss">
 <script src="script.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>
+if (screen.width > 450)
+{
+    var mvp = document.getElementById('vp');
+    mvp.setAttribute('content','width=600');
+}
+</script>
 
 <div class="home">
 
