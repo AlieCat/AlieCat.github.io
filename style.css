@@ -16,9 +16,6 @@ html, body {
   padding-top:1.4em;
   margin:0 auto;
 }
-#who{
-  /*margin-top:-20vw;*/
-}
 section{
   position:absolute;
   width:85%
@@ -158,3 +155,10 @@ section p{
 .deg180 { transform: rotate(30deg) translate(-35vw) rotate(-30deg); }
 .deg225 { transform: rotate(250deg) translate(35vw) rotate(-250deg); }
 .deg315 { transform: rotate(290deg) translate(35vw) rotate(-290deg); }
+
+@media all and (max-width: 1000px) {
+    /*styles for narrow desktop browsers and iPad landscape */
+       .content{
+         width: 450;
+    }    
+}
