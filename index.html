@@ -24,22 +24,22 @@ layout: default
   </p>
   
   <img style="display:none;" src='http://imgsrc.hubblesite.org/hu/db/images/hs-2005-37-a-thumb.jpg'></a>
-	<a href='#' class='card deg135 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
+	<a id="photos" href='#' class='card deg135 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
   <p class="menu-item">
   Photos
   </p>
   <img style="display:none;" src='http://imgsrc.hubblesite.org/hu/db/images/hs-2010-26-a-thumb.jpg'></a>
-	<a href='#' class='card deg180 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
+	<a id="writing" href='#' class='card deg180 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
   <p class="menu-item">
   Writing
   </p>
   <img style="display:none;" src='http://imgsrc.hubblesite.org/hu/db/images/hs-2004-27-a-thumb.jpg'></a>
-	<a href='#' class='card deg225 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
+	<a id="store" href='#' class='card deg225 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
   <p class="menu-item">
   Store
   </p>
   <img style="display:none;" src='http://imgsrc.hubblesite.org/hu/db/images/hs-1992-17-a-thumb.jpg'></a>
-	<a href='/calendar/' class='card deg315 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
+	<a id="calendar" href='/calendar/' class='card deg315 image-cropper2 flexParent' onclick="this.classList.toggle('flipped')">
   <p class="menu-item">
   Calendar
   </p>
@@ -85,7 +85,12 @@ layout: default
 </div>
 <script>
 if (screen.width > 450)
-{
-    document.getElementById("music").className = "card deg00 image-cropper2 flexParent";
+{ 
+    document.getElementById("resume").className = "card degL0 image-cropper2 flexParent";
+    document.getElementById("music").className = "card degL45 image-cropper2 flexParent";
+    document.getElementById("photos").className = "card degL135 image-cropper2 flexParent";
+    document.getElementById("writing").className = "card degL180 image-cropper2 flexParent";
+    document.getElementById("store").className = "card degL225 image-cropper2 flexParent";
+    document.getElementById("calendar").className = "card degL315 image-cropper2 flexParent";
 }
 </script>
