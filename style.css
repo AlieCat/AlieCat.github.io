@@ -157,11 +157,11 @@ section p{
 .deg315 { transform: rotate(290deg) translate(35vw) rotate(-290deg); }
 
 /*large screen widths*/
-.degL0 { transform: rotate(330deg) translate(17em) rotate(-330deg);
+.degL0 { transform: rotate(330deg) translate(15em) rotate(-330deg);
         } /* 12em = half the width of the wrapper */
-.degL45 { transform: rotate(10deg) translate(17em) rotate(-10deg); }
-.degL135 { transform: rotate(170deg) translate(17em)) rotate(-170deg); }
-.degL180 { transform: rotate(30deg) translate(-17em)) rotate(-30deg); }
-.degL225 { transform: rotate(250deg) translate(17em)) rotate(-250deg); }
-.degL315 { transform: rotate(290deg) translate(17em) rotate(-290deg); }
+.degL45 { transform: rotate(10deg) translate(15em) rotate(-10deg); }
+.degL135 { transform: rotate(170deg) translate(15em) rotate(-170deg); }
+.degL180 { transform: rotate(30deg) translate(-15em) rotate(-30deg); }
+.degL225 { transform: rotate(250deg) translate(15em) rotate(-250deg); }
+.degL315 { transform: rotate(290deg) translate(15em) rotate(-290deg); }
 
