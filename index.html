@@ -9,7 +9,7 @@ layout: default
 <script>
 if (screen.width > 450)
 {
-    document.getElementById("resume").className = "card deg00 image-cropper2 flexParent";
+    document.getElementById("music").className = "card deg00 image-cropper2 flexParent";
 }
 </script>
 
@@ -23,7 +23,7 @@ if (screen.width > 450)
   
   <img style="display:none;" src='http://imgsrc.hubblesite.org/hu/db/images/hs-1994-02-c-thumb.jpg'>
   </a>
-	<a href='/Music/' class='card deg45 image-cropper2 flexParent'onclick="this.classList.toggle('flipped')">
+	<a id="music" href='/Music/' class='card deg45 image-cropper2 flexParent'onclick="this.classList.toggle('flipped')">
   <p class="menu-item">
   Music
   </p>
