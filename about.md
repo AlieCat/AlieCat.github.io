@@ -98,13 +98,13 @@ organized an online archive of female parade groups in New Orleans and their web
 **Volunteer Farmer** | **August 2016 - September 2016**
 
 Farmed on a kibbutz in conjunction with Hiram,
- a nonprofit seeks to help youth who suffer from emotional problems
+ a nonprofit seeking to help youth with mental health issues and adults with special needs
 
 **Israel Youth Hostels** | **Tiberius, Israel**
 :---------------------------------|-----------------:
 **Hostel Worker** | **April 2016 - May 2016**
 
-Helped to host guests from all over the world traveling to Tiberius a popular
+Helped to host guests from all over the world traveling to Tiberius, a popular
 vacation spot on the sea of Galilee near the jordan river
 
 **Ancient Ancestors** | **New Orleans, LA**
