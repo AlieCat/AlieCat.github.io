@@ -17,3 +17,7 @@ github_username:  AlieCat
 
 # Build settings
 markdown: kramdown
+
+#snipCart object
+collections:
+    - products
