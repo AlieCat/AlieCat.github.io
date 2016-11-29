@@ -3,7 +3,7 @@ name: Sweater
 price: 20
 slug: sweater
 sku: SWTR
-image: /_products/sweater.jpg
+image: store/images/sweater.jpg
 layout: productdetails
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ullamcorper ante non vehicula eleifend.
