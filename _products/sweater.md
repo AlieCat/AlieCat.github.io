@@ -1,6 +1,6 @@
 ---
 name: Sweater
-price: 20
+price: 5
 slug: sweater
 sku: SWTR
 image: /store/images/sweater.jpg
