@@ -41,22 +41,22 @@ width:100%}
 :---------------------------------|-----------------:
 **Application Developer**| **June 2016 - August 2016**
 
-Helped to develop a application that works with QRADAR called Attack Simulator that simulated what cyber attacks might look like and how to react. Worked with Python, Flask, and AngularJS to develop a flow chart display for the user that connected to the java back end.
+Helped to develop an attack simulator application that works within QRADAR. Worked with Python, Flask, and AngularJS to develop a user interface that connected to the Java back end.
 
 **IBM Global Business Systems** | **Baton Rouge, LA**
 :---------------------------------|-----------------:
 **Application Development Specialist**| **July 2014 - April 2016**
 
-Developed sales demos for IBM's software using IBM Experience Modeler to create 'day in the life' 
-user experience presentations and wireframes. Gained practical experience using of XLST, XML, HTML5, CSS3, and Javascript. 
+Developed sales demos for IBM's software using IBM Experience Modeler to create 
+user experience presentations and wireframes. Gained practical experience using XLST, XML, HTML5, CSS3, and Javascript. 
 
 **Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Ventilator Associated Pneumonia Prevention** | **August 2012 - May 2014**
 
 Co-designed an angle measuring device and user interface for lowering patient 
-risk of hospital acquired pneumonia and bed sores by constantly tracking patient angles 
-and alerting care takers.
+risk of Hospital-acquired pneumonia and bed sores by constantly tracking patient angles 
+and alerting care givers of risk.
 
 <!--**Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
 :---------------------------------|-----------------:
@@ -71,14 +71,14 @@ efficient adjustable prosthetic designs.-->
 **Teaching Assistant in Statics** | **January 2014 - May 2014**
 
 Graded homeworks, tests, and projects in Static Engineeing class. Assisted students in understanding 
-concepts involving static design and basic physics engineering equations.
+concepts involving static design and basic engineering equations.
 
 **Collat Media Lab, Newcomb-Tulane College** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Programming Workshop Leader** | **January 2014 - May 2014**
 
-Organized and taught weekly classes on Python programming. Created and actively maintained the website for Tulane Women in Technology and 
-organized an online archive of events.
+Organized and taught weekly classes on Python. Created the website for Tulane Women in Technology and 
+helped maintain the multisite wordpress.
 
 <!--**Collat Media Lab, Newcomb-Tulane College** | **New Orleans, LA**
 :---------------------------------|-----------------:
