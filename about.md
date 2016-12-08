@@ -41,7 +41,7 @@ width:100%}
 :---------------------------------|-----------------:
 **Application Developer**| **June 2016 - August 2016**
 
-Helped to develop a application that works with QRADAR called Attack Simulator that simulated what cyber attacks might look like and how to react. Worked with Python, Flask, and AngularJS to develope a flow chart display for the user that connected to the java back end.
+Helped to develop a application that works with QRADAR called Attack Simulator that simulated what cyber attacks might look like and how to react. Worked with Python, Flask, and AngularJS to develop a flow chart display for the user that connected to the java back end.
 
 **IBM Global Business Systems** | **Baton Rouge, LA**
 :---------------------------------|-----------------:
@@ -49,7 +49,6 @@ Helped to develop a application that works with QRADAR called Attack Simulator t
 
 Developed sales demos for IBM's software using IBM Experience Modeler to create 'day in the life' 
 user experience presentations and wireframes. Gained practical experience using of XLST, XML, HTML5, CSS3, and Javascript. 
-Confident in the us of Adobe Suites products to design webpages before creating them with a team.
 
 **Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
 :---------------------------------|-----------------:
@@ -59,34 +58,34 @@ Co-designed an angle measuring device and user interface for lowering patient
 risk of hospital acquired pneumonia and bed sores by constantly tracking patient angles 
 and alerting care takers.
 
-**Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
+<!--**Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Optimization of Spring Powered Stilts** | **August 2012 - May 2014**
 
-Researched the relationship between Stilts and Prosthetics and modeled designs for improving 
+Researched the relationship between stilts and prosthetics while modeling designs for improving 
 fiberglass stilts for extended use in parade culture as well as suggestions for more cost 
-efficient adjustable prosthetic designs.
+efficient adjustable prosthetic designs.-->
 
 **Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Teaching Assistant in Statics** | **January 2014 - May 2014**
 
-Graded Homeworks, Tests, and projects in Static Engineeing class. Assisted students to grasp 
+Graded homeworks, tests, and projects in Static Engineeing class. Assisted students in understanding 
 concepts involving static design and basic physics engineering equations.
 
 **Collat Media Lab, Newcomb-Tulane College** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Programming Workshop Leader** | **January 2014 - May 2014**
 
-Organized and taught weekly classes on Python programming and 
-designed a web-based learning app using Python.
+Organized and taught weekly classes on Python programming. Created and actively maintained the website for Tulane Women in Technology and 
+organized an online archive of events.
 
-**Collat Media Lab, Newcomb-Tulane College** | **New Orleans, LA**
+<!--**Collat Media Lab, Newcomb-Tulane College** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Web Designer & Webmaster**| **May 2013 - May 2014**
 
 Created and actively maintained the website for Tulane Women in Technology and 
-organized an online archive of female parade groups in New Orleans and their web presence.
+organized an online archive of female parade groups in New Orleans and their web presence.-->
 
 ---
 
