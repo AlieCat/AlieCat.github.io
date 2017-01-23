@@ -70,7 +70,7 @@ efficient adjustable prosthetic designs.-->
 :---------------------------------|-----------------:
 **Teaching Assistant in Statics** | **January 2014 - May 2014**
 
-Graded homeworks, tests, and projects in Static Engineeing class. Assisted students in understanding 
+Graded homeworks, tests, and projects in Statics class. Assisted students in understanding 
 concepts involving static design and basic engineering equations.
 
 **Collat Media Lab, Newcomb-Tulane College** | **New Orleans, LA**
