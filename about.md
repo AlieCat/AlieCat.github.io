@@ -36,6 +36,11 @@ width:100%}
 
 ## Professional Experience
 
+**NOLA Codes** | **New Orleans, LA**
+:---------------------------------|-----------------:
+**Teacher**| **February 2017 - August Present**
+
+Developed lesson plans and taught kids ranging from age 6-19 at an after school program in the Desire Development Neighborhood.
 
 **IBM Cyber Security** | **Be'er Sheva, Israel**
 :---------------------------------|-----------------:
