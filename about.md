@@ -36,9 +36,15 @@ width:100%}
 
 ## Professional Experience
 
+**Boh Brothers Construction** | **New Orleans, LA**
+:---------------------------------|-----------------:
+**Full Stack Developer**| **February 2017 - Present**
+
+Worked to Develop seamless digital workflows for employees by managing large data sets on company assets, and Job Safety Analysis Forms.
+
 **NOLA Codes** | **New Orleans, LA**
 :---------------------------------|-----------------:
-**Teacher**| **February 2017 - August Present**
+**Teacher**| **February 2017 - Present**
 
 Developed lesson plans and taught kids ranging from age 6-19 at an after school program in the Desire Development Neighborhood.
 
