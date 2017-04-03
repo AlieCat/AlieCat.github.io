@@ -22,6 +22,4 @@ markdown: kramdown
 collections:
     - products
     
-exclude:
-  - "bower_components"
-  - "bower.json"
+
