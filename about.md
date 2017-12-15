@@ -40,13 +40,13 @@ width:100%}
 :---------------------------------|-----------------:
 **Full Stack Developer**| **February 2017 - Present**
 
-Worked to Develop seamless digital workflows for employees by managing large data sets on company assets, and Job Safety Analysis Forms.
+Worked to Develop seamless digital workflows for employees by managing large data sets on company assets, and Job Safety Analysis Forms. Created a timesheet application for salaried employees and managed the main support site.
 
 **NOLA Codes** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Teacher**| **February 2017 - Present**
 
-Developed lesson plans and taught kids ranging from age 6-19 at an after school program in the Desire Development Neighborhood.
+Developed lesson plans and taught kids ranging from age 6-19 at an after school program in the Desire Development Neighborhood. Then taught an after school program at the International School of Louisiana to kids ranging from 8-12 that included scratch game design, intro to web development, and drag & drop programming.
 
 **IBM Cyber Security** | **Be'er Sheva, Israel**
 :---------------------------------|-----------------:
