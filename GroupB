@@ -1,0 +1,18 @@
+---
+layout: default
+title: Student Work
+permalink: /students/B
+---
+
+<html>
+<ul>
+<li>Isidro</li>
+<li>
+<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/193064320/?autostart=false" frameborder="0" allowfullscreen></iframe>
+</li>
+<li>
+ <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/183612033/?autostart=false" frameborder="0" allowfullscreen></iframe>
+</li>
+</ul>
+
+</html>
