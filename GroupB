@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Student Work
-permalink: /students/B
+permalink: /students/B/
 ---
 
 <html>
@@ -15,4 +15,42 @@ permalink: /students/B
 </li>
 </ul>
 
+<ul>
+<li>Lance</li>
+<li>
+<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/200363557/?autostart=false" frameborder="0" allowfullscreen></iframe>
+</li>
+<li><iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/192922483/?autostart=false" frameborder="0" allowfullscreen></iframe>
+</li>
+</ul>
+
+<ul>
+<li>Elijah</li>
+<li><iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/190839513/?autostart=false" frameborder="0" allowfullscreen></iframe>
+</li>
+<li><iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/193059877/?autostart=false" frameborder="0" allowfullscreen></iframe>
+</li>
+</ul>
+
+<ul>
+<li>Sophie</li>
+<li><iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/183608151/?autostart=false" frameborder="0" allowfullscreen></iframe></li>
+<li> <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/193068463/?autostart=false" frameborder="0" allowfullscreen></iframe></li>
+</ul>
+
+<ul>
+<li>Xen</li>
+<li><iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/193061829/?autostart=false" frameborder="0" allowfullscreen></iframe></li>
+</ul>
+
+<ul>
+<li>Ashlyn<li>
+<li> <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/183603542/?autostart=false" frameborder="0" allowfullscreen></iframe>
+    </li>
+<ul>
+
+<ul>
+<li>Henry</li>
+<li><iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/194816824/?autostart=false" frameborder="0" allowfullscreen></iframe></li>
+</ul>
 </html>
