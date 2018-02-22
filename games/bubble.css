@@ -1,9 +1,9 @@
-body { font: 100% "Helvetica Neue", sans-serif; background: #eee; }
+body { font: 80% "Helvetica Neue", sans-serif; background: #eee; }
 p.speech {
     display:none;
     position: relative;
-    width: 200px;
-    height: 100px;
+    width: 20vw;
+    height: 40vh;
     text-align: center;
     line-height: 100px;
     background: #fff;
