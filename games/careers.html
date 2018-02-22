@@ -1,6 +1,18 @@
 <html>
+  <head>
+  <link rel="stylesheet" type="text/css" href="bubble.css">
+  <script type="text/javascript" src="jquery-1.8.3.js">
+  <script type="text/javascript">
+function pilot(){
+    document.getElementById("pilot").style.display="block";
+  };
+</script>
+</head>
+<body>
 <h1>Realistic Group</h1>
   <h3> click on the characters to interact with them </h3>
+  <p id="pilot" class="speech">In a little while I’m going to split this party. It’s a beautiful day so I’m going take a short flight to the Great
+Smoky National Park and take a hike. I have one spot left in the 4-seater plane, do you want to join me?</p>
   <div style="width:100%;text-align:center;position:absolute;bottom:0;">
   <img src="Pilot.svg" style="width:20vw;" usemap="#pilot"/>
   <img src="Mechanic.svg" style="width:20vw;" usemap="#mechanic"/>
@@ -8,7 +20,7 @@
   <img src="Farmer.svg" style="width:20vw;" usemap="#farmer"/>
   </div>
   <map name="pilot">
-    <area shape="deafult"/>
+    <area shape="deafult" href="javascript:pilot();"/>
   </map>
   <map name="mechanic">
     <area shape="deafult"/>
@@ -19,4 +31,5 @@
   <map name="farmer">
     <area shape="deafult"/>
   </map>
+  </body>
 </html>
