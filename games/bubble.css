@@ -1,0 +1,36 @@
+body { font: 100% "Helvetica Neue", sans-serif; background: #eee; }
+p.speech {
+    position: relative;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    background: #fff;
+    border: 8px solid #666;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+    -moz-box-shadow: 2px 2px 4px #888;
+    -webkit-box-shadow: 2px 2px 4px #888;
+    box-shadow: 2px 2px 4px #888;
+}
+p.speech:before {
+    content: " ";
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 100px;
+    left: 30px;
+    border: 25px solid #666;
+    border-color: #666 transparent transparent #666;
+}
+p.speech:after {
+    content: " ";
+    width: 0;
+    height: 0;
+    position: absolute;
+    top: 100px;
+    left: 38px;
+    border: 15px solid #fff;
+    border-color: #fff transparent transparent #fff;
+}
