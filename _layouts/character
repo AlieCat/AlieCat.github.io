@@ -13,6 +13,6 @@
       <img src="{{ character.image }}" class="character"/>
       <div class="sub"><h3>{{ character.description }}</h3><div>
     </div>
-
+    {{ content }}
   </body>
 </html>
