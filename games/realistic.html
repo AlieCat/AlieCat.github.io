@@ -1,0 +1,8 @@
+---
+layout: carreer4character
+---
+{% for character in paginator.characters %}
+      <a href="{{ site.baseurl }}{{ character.url }}">
+        <img src="{{ character.image }}" class="character"/>
+      </a>
+{% endfor %}
