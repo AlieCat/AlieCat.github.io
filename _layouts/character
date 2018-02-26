@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body{background-image: url("Background_Demo.svg");background-repeat: no-repeat;background-size: 100%;}
+    .main{width:100%;text-align:center;}
+    .character{max-height:80vh;width:100vw;}
+    .sub{height:20vh;wdith:100vw;background-image: url("Bubble.svg");background-repeat: no-repeat;background-size: 100%;}
+  </style>
+</head>
+  <body>
+    <div class="main">
+      {{ content }}
+    </div>
+
+  </body>
+</html>
