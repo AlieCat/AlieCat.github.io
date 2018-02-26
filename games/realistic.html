@@ -2,7 +2,7 @@
 layout: carreer4character
 ---
 <p>test</p>
-{% for character in site.characters %}
+{% for character in site.games.characters %}
       <a href="{{ site.baseurl }}{{ character.url }}">
         <img src="{{ character.image }}" class="character"/>
       </a>
