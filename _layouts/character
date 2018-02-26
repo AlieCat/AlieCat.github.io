@@ -10,7 +10,8 @@
 </head>
   <body>
     <div class="main">
-      {{ content }}
+      <img src="{{page.image}}" class="character"/>
+      <div class="sub"><h3>{{page.description}}</h3><div>
     </div>
 
   </body>
