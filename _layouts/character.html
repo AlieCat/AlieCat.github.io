@@ -4,14 +4,14 @@
   <style>
     .character{width:100%;text-align:center;}
     .character{height:80vh;width:100vw;background-image: url("Background_Demo.svg");background-repeat: no-repeat;background-size: 100%;}
-    .sub{height:100vh;background-image: url("Bubble.svg");background-repeat: no-repeat;background-size: 100%;position:absolute;bottom:0;}
+    .sub{height:100vh;background-image: url("Bubble.svg");background-repeat: no-repeat;background-size: 100%;bottom:0;}
   </style>
 </head>
   <body>
     <div class="main">
       <img src="{{ page.image }}" class="character"/>
-      <div class="sub"><h3>{{ page.description }}</h3><div>
     </div>
+      <div class="sub"><h3>{{ page.description }}</h3><div>
     {{ content }}
   </body>
 </html>
