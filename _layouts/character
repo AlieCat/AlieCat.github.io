@@ -10,8 +10,8 @@
 </head>
   <body>
     <div class="main">
-      <img src="{{ page.image }}" class="character"/>
-      <div class="sub"><h3>{{ page.description }}</h3><div>
+      <img src="{{ character.image }}" class="character"/>
+      <div class="sub"><h3>{{ character.description }}</h3><div>
     </div>
 
   </body>
