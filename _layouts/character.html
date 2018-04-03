@@ -69,8 +69,8 @@ h3.typewriter p:nth-child(2) {
 
 h3.typewriter p:nth-child(3) {
   opacity: 0;
-  -webkit-animation: type3 4s steps(40, end), blink .5s step-end infinite alternate;
-  animation: type3 4s steps(40, end), blink .5s step-end infinite alternate;
+  -webkit-animation: type3 4s steps(40, end);
+  animation: type3 4s steps(40, end);
   -webkit-animation-delay: 8s;
   animation-delay: 8s;
   -webkit-animation-fill-mode: forwards;
@@ -95,11 +95,11 @@ h3.typewriter p:nth-child(4) {
       transition-delay: 16s;
       -webkit-transition-delay: 16s;
     }
-    @-webkit-keyframes .answers {
+ @-webkit-keyframes slide {
     100% { left: 0; }
 }
 
-@keyframes .answers {
+@keyframes slide {
     100% { left: 0; }
 }
 
