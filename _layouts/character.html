@@ -209,7 +209,7 @@ var speed = 50;
 
 function typeWriter() {
   if (i < txt.length) {
-    document.getElementById("demo").innerHTML += txt.charAt(i);
+    document.getElementById("speech").innerHTML += txt.charAt(i);
     i++;
     setTimeout(typeWriter, speed);
   }
@@ -227,7 +227,7 @@ function typeWriter() {
       </div>
       <div class="title">{{ page.description }}</div>
     
-      <div class="sub"><div class="typewriter" id="demo"></div><div>
+      <div class="sub"><h3 class="typewriter" id="speech"></h3><div>
      </div>
   </body>
 </html>
