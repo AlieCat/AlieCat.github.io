@@ -41,7 +41,7 @@ bottom: 0;
     }
     /* Type Writer effect */
     h3.typewriter{
-      width:75vw;
+      width:70vw;
       text-align: center;
       padding-left:5vw;
 
@@ -208,7 +208,7 @@ h3.typewriter p:nth-child(4) {
 var i = 0;
 var txt = '{{ page.dialogue }}';
 console.log(txt);
-var speed = 90;
+var speed = 25;
 
 function typeWriter() {
   if (i < txt.length) {
@@ -233,6 +233,7 @@ function typeWriter() {
       <div class="title">{{ page.description }}</div>
     
       <div class="sub"><h3 class="typewriter" id="speech"></h3><div>
+        <div><button>Return Home</button><button>Return to group</button></div>
      </div>
   </body>
 </html>
