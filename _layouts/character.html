@@ -23,7 +23,8 @@ bottom: 0;
       background-color:#F0D677;
       border-radius: 15px; 
       border:6px solid #E0B44B; 
-      width:20vw; margin-left:10vw;z-index:1;padding:1vw; position:absolute;margin-top:-30vh
+      width:20vw; margin-left:10vw;z-index:1;padding:1vw; position:absolute;margin-top:-30vh;
+      font-size:1em;
     }
     .title{
       position: sticky;
@@ -32,16 +33,17 @@ bottom: 0;
       background-color:#F0D677;
       border-radius: 15px; 
       border:6px solid #E0B44B; 
-      width:40vw; 
+      width:30vw;
+      font-size:1.5em;
       margin-left:10vw;
       z-index:1;
       padding:1vw;
     }
     /* Type Writer effect */
     h3.typewriter{
-      width:80vw;
+      width:75vw;
       text-align: center;
-      padding-left:10vw;
+      padding-left:5vw;
 
     }
    h3.typewriter>p{
@@ -98,10 +100,10 @@ h3.typewriter p:nth-child(4) {
     left: -1000px;
    -webkit-animation: slide 0.5s forwards;
    animation: slide 0.5s forwards;
-  -webkit-animation-delay: 16s;
-  animation-delay: 16s;
-      transition-delay: 16s;
-      -webkit-transition-delay: 16s;
+  -webkit-animation-delay: 10s;
+  animation-delay: 10s;
+      transition-delay: 10s;
+      -webkit-transition-delay: 10s;
     }
  @-webkit-keyframes slide {
     100% { left: 0; }
@@ -206,7 +208,7 @@ h3.typewriter p:nth-child(4) {
 var i = 0;
 var txt = '{{ page.dialogue }}';
 console.log(txt);
-var speed = 50;
+var speed = 90;
 
 function typeWriter() {
   if (i < txt.length) {
@@ -222,7 +224,7 @@ function typeWriter() {
 </head>
   <body>
     <div class="main">
-      <div style="width:35vw;">
+      <div style="width:30vw;">
       <button class="answers w3-animate-left" style="bottom:0;margin-bottom:80vh;">Great, I’ll join you.</button>
       <button class="answers" style="bottom:0;margin-bottom:70vh;">No thanks</button>
       <button class="answers" style="bottom:0;margin-bottom:60vh;">Sounds like fun, Maybe I’ll come back.</button>
