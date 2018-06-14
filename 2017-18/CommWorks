@@ -5,10 +5,10 @@ permalink: /ISL/
 ---
 <html>
 <ul>
-<li><a href="">group A</a></li>
-<li><a href="">group B</a></li>
-<li><a href="">group C</a></li>
-<li><a href="">group D</a></li>
-<li><a href="">group E</a></li>
+<li><a href="/groupa/">group A</a></li>
+<li><a href="/groupb/">group B</a></li>
+<li><a href="/groupc/">group C</a></li>
+<li><a href="/groupd/">group D</a></li>
+<li><a href="/groupe/">group E</a></li>
 </ul>
 </html>
