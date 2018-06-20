@@ -5,6 +5,19 @@
     body{background-image: url("Background_Demo.svg");background-repeat: no-repeat;background-size: 100%;}
     .main{width:100%;text-align:center;position:absolute;bottom:0;display: flex;flex-direction: row;}
     .character{width:20vw;z-index: 1;}
+        .sub{
+     color:#FFFFFF;
+    height: 42vh;
+    background-color:#3D4A5A;
+    border-radius: 15px; 
+    border:6px solid #E0B44B;
+position: -webkit-sticky;
+position: sticky;
+top: 0;
+  display: flex;
+  justify-content: center;
+      flex-direction:column;
+    }
     a:nth-child(1){
           position: relative;
           left:-2000px;
@@ -64,6 +77,9 @@
 </head>
   <body>
     <div class="main">
+       <div class="sub"><h3>Click on Character to Start Dialogue</h3>
+          <div id="letter" style="display:none;"><img height="100px" src="letter.svg" /></div>
+     </div>
       {{ content }}
     </div>
 
