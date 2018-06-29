@@ -183,11 +183,11 @@ function typeWriter() {
     function yeah(){
       document.getElementById("letter").style.display = "inline-block";
       document.getElementById("speech").innerHTML = "Great! Looking forward to it!";
-      //setTimeout(function(){ window.location.href = 'yeah.html'; }, 3000);
+      setTimeout(function(){ window.location.href = '../{{ page.nextgroup}}'; }, 3000);
     }
     function nope(){
       document.getElementById("speech").innerHTML = "OK, see you around.";
-      //setTimeout(function(){ window.location.href = 'nope.html'; }, 3000);
+      setTimeout(function(){ window.location.href = './{{ page.next }}'; }, 3000);
     }
 </script>
 </head>
