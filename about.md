@@ -15,9 +15,9 @@ width:100%}
 ## Education
 
 
-| **Bachelor of Science & Engineering,**            | August 2010 - May 2014 |
+| **Bachelor of Science & Engineering**            | August 2010 - May 2014 |
 |:--------------------------------------------------------------------------- | ----------------------:|
-| **Biomedical Engineering** Minor: Philosophy                             		              |                GPA:3.4 |
+| **Biomedical Engineering** Minor: Philosophy                             		              |                GPA: 3.4 |
 | **Tulane University**, New Orleans, LA                                      |  Founder's Scholarship |
 
 ---
@@ -40,34 +40,34 @@ width:100%}
 :---------------------------------|-----------------:
 **Full Stack Developer**| **February 2017 - Present**
 
-Worked to Develop seamless digital workflows for employees by managing large data sets on company assets, and Job Safety Analysis Forms. Created a timesheet application for salaried employees and managed the main support site.
+Worked to develop seamless digital workflows for employees by managing large data sets on company assets. Created a hazard mitigation form and timesheet application for salaried employees. Managed the main support site by performing updates and troubleshooting issues.
 
 **NOLA Codes** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Teacher**| **February 2017 - Present**
 
-Developed lesson plans and taught kids ranging from age 6-19 at an after school program in the Desire Development Neighborhood. Then taught an after school program at the International School of Louisiana to kids ranging from 8-12 that included scratch game design, intro to web development, and drag & drop programming.
+Created lesson plans and taught adolescents at an after school program in the Desire Development Neighborhood and at the International School of Louisiana that included scratch game design, intro to web development, and drag & drop programming.
 
 **IBM Cyber Security** | **Be'er Sheva, Israel**
 :---------------------------------|-----------------:
 **Application Developer**| **June 2016 - August 2016**
 
-Helped to develop an attack simulator application that works within QRADAR. Worked with Python, Flask, and AngularJS to develop a user interface that connected to the Java back end.
+Helped to develop an attack simulator application user interface using Python, Flask, and AngularJS.
 
 **IBM Global Business Systems** | **Baton Rouge, LA**
 :---------------------------------|-----------------:
 **Application Development Specialist**| **July 2014 - April 2016**
 
-Developed sales demos for IBM's software using IBM Experience Modeler to create 
+Developed and presented sales demos for IBM software using IBM Experience Modeler to create 
 user experience presentations and wireframes. Gained practical experience using XLST, XML, HTML5, CSS3, and Javascript. 
 
 **Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Ventilator Associated Pneumonia Prevention** | **August 2012 - May 2014**
 
-Co-designed an angle measuring device and user interface for lowering patient 
-risk of Hospital-acquired pneumonia and bed sores by constantly tracking patient angles 
-and alerting care givers of risk.
+Codesigned an angle-measuring device and user interface for lowering patient 
+risk of hospital-acquired pneumonia and bed sores by constantly tracking patient angles 
+and alerting caregivers of risk.
 
 <!--**Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
 :---------------------------------|-----------------:
@@ -88,8 +88,7 @@ concepts involving static design and basic engineering equations.
 :---------------------------------|-----------------:
 **Programming Workshop Leader** | **January 2014 - May 2014**
 
-Organized and taught weekly classes on Python. Created the website for Tulane Women in Technology and 
-helped maintain the multisite wordpress.
+Created lesson plans and taught weekly classes on Python. Created the website for Tulane Women in Technology. Maintained the organization's multisite wordpress.
 
 <!--**Collat Media Lab, Newcomb-Tulane College** | **New Orleans, LA**
 :---------------------------------|-----------------:
