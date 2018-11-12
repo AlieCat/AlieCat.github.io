@@ -28,7 +28,7 @@ width:100%}
 ----------------------------------------------------------------------------------------------|--------------
 **Programming**                                  | Python, HTML, CSS, Javascript, Java, C++, XSLT, XML, XPATH
 **Software**                                     | Adobe Suites, Microsoft Office, MATLAB, SolidWorks
-**CMS**                                          | WordPress, Jekyll, Squarespace, Joomla, Droopal
+**CMS**                                          | WordPress, Jekyll
 **Languages**                                    | Romanian, English
 **Coursework**                                   | Project and Embedded Control Systems, Bio-image Processing
 
