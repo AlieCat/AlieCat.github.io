@@ -36,15 +36,21 @@ width:100%}
 
 ## Professional Experience
 
+**Geocent** | **Metairie, LA**
+:---------------------------------|-----------------:
+**Software Engineer II**| **December 2018 - Present**
+
+Working with python, docker, to create a Platform for Rendering Integration of Science and Manufacturing (PRISM) that will automate the integration of a Chemical Equilibrium Application Fortran model and an Excel model for Bimodal Nuclear Thermal Rocket. Implementing a platform to containerize multiple models, automate interactions and process different test scenarios needed by NASA Shared Services Center (NSSC).
+
 **Boh Brothers Construction** | **New Orleans, LA**
 :---------------------------------|-----------------:
-**Full Stack Developer**| **February 2017 - Present**
+**Full Stack Developer**| **February 2017 - December 2018**
 
 Worked to develop seamless digital workflows for employees by managing large data sets on company assets. Created a hazard mitigation form and timesheet application for salaried employees. Managed the main support site by performing updates and troubleshooting issues.
 
 **NOLA Codes** | **New Orleans, LA**
 :---------------------------------|-----------------:
-**Teacher**| **February 2017 - Present**
+**Teacher**| **February 2017 - December 2018**
 
 Created lesson plans and taught adolescents at an after school program in the Desire Development Neighborhood and at the International School of Louisiana that included scratch game design, intro to web development, and drag & drop programming.
 
