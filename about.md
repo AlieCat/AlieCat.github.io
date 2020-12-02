@@ -40,7 +40,10 @@ width:100%}
 :---------------------------------|-----------------:
 **Software Engineer II**| **December 2018 - Present**
 
-Working with python, and docker to create a platform for Rendering Integration of Science and Manufacturing (PRISM) that will automate the integration of a Chemical Equilibrium Application Fortran model and an Excel model for Bimodal Nuclear Thermal Rocket. Implementing a platform to containerize multiple models, automate interactions and process different test scenarios needed by NASA Shared Services Center (NSSC).
+*Helios Workflows*
+Using python and the panel library, within Django and Tethys, to create a computation prototyping environment interface for DoD CREATE-AV Helios Simulations. Developed workflow pipelines for hover and forward flight perfomance calculations of rotorcrafts returning simulation time series and volumetric data.
+*Prism*
+Worked with python, and docker to create a platform for Rendering Integration of Science and Manufacturing (PRISM) that will automate the integration of a Chemical Equilibrium Application Fortran model and an Excel model for Bimodal Nuclear Thermal Rocket. Implementing a platform to containerize multiple models, automate interactions and process different test scenarios needed by NASA Shared Services Center (NSSC).
 
 **Boh Brothers Construction** | **New Orleans, LA**
 :---------------------------------|-----------------:
