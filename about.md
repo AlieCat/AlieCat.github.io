@@ -41,10 +41,10 @@ width:100%}
 **Software Engineer II**| **December 2018 - Present**
 
 **Helios Workflows** |
-Using python and the panel library, within Django and Tethys, to create a computation prototyping environment interface for DoD CREATE-AV Helios Simulations. Developed workflow pipelines for hover and forward flight perfomance calculations of rotorcrafts returning simulation time series and volumetric data.
+Using Python and the Panel library within Django and Tethys to create a computation prototyping environment interface for DoD CREATE-AV Helios Simulations. Developed workflow pipelines for hover and forward flight perfomance calculations of rotorcrafts, returning simulation time series and volumetric data.
 
 **Prism** |
-Worked with python, and docker to create a platform for Rendering Integration of Science and Manufacturing (PRISM) that will automate the integration of a Chemical Equilibrium Application Fortran model and an Excel model for Bimodal Nuclear Thermal Rocket. Implementing a platform to containerize multiple models, automate interactions and process different test scenarios needed by NASA Shared Services Center (NSSC).
+Worked with Python and Docker to create a platform for Rendering Integration of Science and Manufacturing (PRISM) that will automate the integration of a Chemical Equilibrium Application Fortran model and an Excel model for Bimodal Nuclear Thermal Rocket. Implemented a platform to containerize multiple models, automate interactions, and process different test scenarios needed by NASA Shared Services Center (NSSC).
 
 **Boh Brothers Construction** | **New Orleans, LA**
 :---------------------------------|-----------------:
@@ -56,13 +56,13 @@ Worked to develop seamless digital workflows for employees by managing large dat
 :---------------------------------|-----------------:
 **Teacher**| **February 2017 - December 2018**
 
-Created lesson plans and taught adolescents at an after school program in the Desire Development Neighborhood and at the International School of Louisiana that included scratch game design, intro to web development, and drag & drop programming.
+Created lesson plans and taught adolescents at an after school program in the Desire Development Neighborhood and at the International School of Louisiana. Lessons included Scratch game design, intro to web development, and drag & drop programming.
 
 **IBM Cyber Security** | **Be'er Sheva, Israel**
 :---------------------------------|-----------------:
 **Application Developer**| **June 2016 - August 2016**
 
-Helped to develop an attack simulator application user interface using Python, Flask, and AngularJS.
+Helped to develop an cyber security attack simulator application user interface using Python, Flask, and AngularJS.
 
 **IBM Global Business Systems** | **Baton Rouge, LA**
 :---------------------------------|-----------------:
