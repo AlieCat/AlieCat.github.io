@@ -3,7 +3,7 @@ layout: page
 title: Resume
 myname: Alexandra Eiseman
 phone: 504-656-4439
-email: aliee91@gmail.com
+email: eiseman.alex@gmail.com
 permalink: /Resume/
 ---
 <style>
@@ -26,11 +26,11 @@ width:100%}
 
 
 ----------------------------------------------------------------------------------------------|--------------
-**Programming**                                  | Python, HTML, CSS, Javascript, Java, C++, XSLT, XML, XPATH
+**Programming**                                  | Python, HTML, CSS, Javascript, Java, C++, C#, XSLT, XML, XPATH
 **Software**                                     | Adobe Suites, Microsoft Office, MATLAB, SolidWorks
-**CMS**                                          | WordPress, Jekyll
 **Languages**                                    | Romanian, English
-**Coursework**                                   | Project and Embedded Control Systems, Bio-image Processing
+**Certifications**                               | New Horizons Python with Data Science Course, June 2020
+**Awards**                                       | MIT Hacking Medicine Grand Hack 2020 Prize Winner
 
 ---
 
@@ -39,6 +39,9 @@ width:100%}
 **Geocent** | **Metairie, LA**
 :---------------------------------|-----------------:
 **Software Engineer II**| **December 2018 - Present**
+
+**Michoud Assembly Facility Learning Model** |
+Using Unity and C# to develop a learning module displayed on a computer, or virtual reality for use by students at UNO & LSU to inspire learning about the rocket manufacturing process.
 
 **Helios Workflows** |
 Using Python and the Panel library within Django and Tethys to create a computation prototyping environment interface for DoD CREATE-AV Helios Simulations. Developed workflow pipelines for hover and forward flight perfomance calculations of rotorcrafts, returning simulation time series and volumetric data.
@@ -126,8 +129,8 @@ Farmed on a kibbutz in conjunction with Hiram,
 Helped to host guests from all over the world traveling to Tiberius, a popular
 vacation spot on the sea of Galilee near the jordan river
 
-**Ancient Ancestors** | **New Orleans, LA**
+<!-- **Ancient Ancestors** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Web Designer** | **June 2013 - May 2014**
 
-Helped to develop the website for a traveling evolution education nonprofit organization.
+Helped to develop the website for a traveling evolution education nonprofit organization. -->
