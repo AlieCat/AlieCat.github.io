@@ -27,7 +27,7 @@ width:100%}
 
 ----------------------------------------------------------------------------------------------|--------------
 **Programming**                                  | Python, HTML, CSS, Javascript, Java, C++, C#, XSLT, XML, XPATH
-**Software**                                     | Adobe Suites, Microsoft Office, MATLAB, SolidWorks
+**Software**                                     | Adobe Suites, Microsoft Office, MATLAB, SolidWorks, Unity
 **Languages**                                    | Romanian, English
 **Certifications**                               | New Horizons Python with Data Science Course, June 2020
 **Awards**                                       | MIT Hacking Medicine Grand Hack 2020 Prize Winner
@@ -40,11 +40,14 @@ width:100%}
 :---------------------------------|-----------------:
 **Software Engineer II**| **December 2018 - Present**
 
+**Risk and Fraud DevSecOps** |
+Using React and Redux to help update a risk and fraud management system for the Department of Homeland Security Citizenship and Immmigration Services.
+
 **Michoud Assembly Facility Learning Model** |
-Using Unity and C# to develop a learning module displayed on a computer, or virtual reality for use by students at UNO & LSU to inspire learning about the rocket manufacturing process.
+Used Unity and C# to develop a learning module displayed on a computer, or virtual reality for use by students at UNO & LSU to inspire learning about the rocket manufacturing process.
 
 **Helios Workflows** |
-Using Python and the Panel library within Django and Tethys to create a computation prototyping environment interface for DoD CREATE-AV Helios Simulations. Developed workflow pipelines for hover and forward flight perfomance calculations of rotorcrafts, returning simulation time series and volumetric data.
+Used Python and the Panel library within Django and Tethys to create a computation prototyping environment interface for DoD CREATE-AV Helios Simulations. Developed workflow pipelines for hover and forward flight perfomance calculations of rotorcrafts, returning simulation time series and volumetric data.
 
 **Prism** |
 Worked with Python and Docker to create a platform for Rendering Integration of Science and Manufacturing (PRISM) that will automate the integration of a Chemical Equilibrium Application Fortran model and an Excel model for Bimodal Nuclear Thermal Rocket. Implemented a platform to containerize multiple models, automate interactions, and process different test scenarios needed by NASA Shared Services Center (NSSC).
