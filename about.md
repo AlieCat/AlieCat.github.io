@@ -36,9 +36,16 @@ width:100%}
 
 ## Professional Experience
 
+**IntelliBridge** | **Remote**
+:---------------------------------|-----------------:
+**Full Stack Software Engineer**| **November 2021 - Present**
+
+**Modernized DevSecOps and Analytics Services II (MDAS II)** |
+Using React frontend and Java Springboot backend to leverage new tools in Big Data Analytics Platforms and to expand on the existing Person Centric Service (PCS) for the Department of Homeland Security Citizenship and Immmigration Services.
+
 **Geocent** | **Metairie, LA**
 :---------------------------------|-----------------:
-**Software Engineer II**| **December 2018 - Present**
+**Software Engineer II**| **December 2018 - November 2021**
 
 **Risk and Fraud DevSecOps** |
 Using React and Redux to help update a risk and fraud management system for the Department of Homeland Security Citizenship and Immmigration Services.
