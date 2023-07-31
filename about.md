@@ -27,9 +27,9 @@ width:100%}
 
 ----------------------------------------------------------------------------------------------|--------------
 **Programming**                                  | Python, HTML, CSS, Javascript, Java, C++, C#, XSLT, XML, XPATH
-**Software**                                     | Adobe Suites, Microsoft Office, MATLAB, SolidWorks, Unity
+**Software**                                     | Databricks, Tableau, Anaconda, Eclipse, MATLAB, SolidWorks, Unity
 **Languages**                                    | Romanian, English
-**Certifications**                               | New Horizons Python with Data Science Course, June 2020
+**Certifications**                               | Fundamentals of Databricks Lakehouse Platform Acreditation July 2023 | New Horizons Python with Data Science Course, June 2020
 **Awards**                                       | MIT Hacking Medicine Grand Hack 2020 Prize Winner
 
 ---
@@ -38,10 +38,10 @@ width:100%}
 
 **IntelliBridge** | **Remote**
 :---------------------------------|-----------------:
-**Full Stack Software Engineer**| **November 2021 - Present**
+**Full Stack Software Engineer**| **November 2021 - July 2023**
 
 **Modernized DevSecOps and Analytics Services II (MDAS II)** |
-Using React frontend and Java Springboot backend to leverage new tools in Big Data Analytics Platforms and to expand on the existing Person Centric Service (PCS) for the Department of Homeland Security Citizenship and Immmigration Services.
+Using React frontend and Java Springboot backend to leverage new tools in Big Data Analytics Platforms and to expand on the existing Person Centric Service (PCS) for the Department of Homeland Security Citizenship and Immmigration Services. Used python, docker and terraform to help re-design and stand up a machine learning match model that retrains using sagemaker. Wrote testing using pytest and jest, created Jenkins pipelines, and logging databases to deploy and support our infrastructure.
 
 **Geocent** | **Metairie, LA**
 :---------------------------------|-----------------:
