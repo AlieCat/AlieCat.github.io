@@ -29,7 +29,7 @@ width:100%}
 **Programming**                                  | Python, HTML, CSS, Javascript, Java, C++, C#, XSLT, XML, XPATH
 **Software**                                     | Databricks, Tableau, Anaconda, Eclipse, MATLAB, SolidWorks, Unity
 **Languages**                                    | Romanian, English
-**Certifications**                               | Fundamentals of Databricks Lakehouse Platform Acreditation July 2023 | New Horizons Python with Data Science Course, June 2020
+**Certifications**                               | Fundamentals of Databricks Lakehouse Platform Acreditation July 2023, New Horizons Python with Data Science Course, June 2020
 **Awards**                                       | MIT Hacking Medicine Grand Hack 2020 Prize Winner
 
 ---
