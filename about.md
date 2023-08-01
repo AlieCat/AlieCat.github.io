@@ -30,7 +30,7 @@ width:100%}
 **Software**                                     | Databricks, Tableau, Anaconda, Eclipse, MATLAB, SolidWorks, Unity
 **Languages**                                    | Romanian, English
 **Certifications**                               | Fundamentals of Databricks Lakehouse Platform Acreditation July 2023
-** **                                            | New Horizons Python with Data Science Course, June 2020
+                                                 | New Horizons Python with Data Science Course, June 2020
 **Awards**                                       | MIT Hacking Medicine Grand Hack 2020 Prize Winner
 
 ---
@@ -85,13 +85,13 @@ Helped to develop an cyber security attack simulator application user interface 
 Developed and presented sales demos for IBM software using IBM Experience Modeler to create 
 user experience presentations and wireframes. Gained practical experience using XLST, XML, HTML5, CSS3, and Javascript. 
 
-**Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
+<!--**Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
 :---------------------------------|-----------------:
 **Ventilator Associated Pneumonia Prevention** | **August 2012 - May 2014**
 
 Codesigned an angle-measuring device and user interface for lowering patient 
 risk of hospital-acquired pneumonia and bed sores by constantly tracking patient angles 
-and alerting caregivers of risk.
+and alerting caregivers of risk.-->
 
 <!--**Department of Biomedical Engineering Tulane University** | **New Orleans, LA**
 :---------------------------------|-----------------:
@@ -112,7 +112,7 @@ concepts involving static design and basic engineering equations.
 :---------------------------------|-----------------:
 **Programming Workshop Leader** | **January 2014 - May 2014**
 
-Created lesson plans and taught weekly classes on Python. Created the website for Tulane Women in Technology. Maintained the organization's multisite wordpress.
+Created lesson plans and helped to teach and organize weekly classes on Python.
 
 <!--**Collat Media Lab, Newcomb-Tulane College** | **New Orleans, LA**
 :---------------------------------|-----------------:
