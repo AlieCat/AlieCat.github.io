@@ -26,16 +26,23 @@ width:100%}
 
 
 ----------------------------------------------------------------------------------------------|--------------
-**Programming**                                  | Python, React, Javascript, Java, SQL, HTML, CSS, XSLT, XML, XPATH
-**Software**                                     | Databricks, Tableau, Anaconda, Eclipse, MATLAB, SolidWorks, Unity
+**Programming**                                  | Python, Pyspark, React, Javascript, Java, SQL, HTML, CSS, XSLT, XML, XPATH
+**Software**                                     | JupyterLab, Sagemaker, Tableau, Anaconda, Databricks, Eclipse, MATLAB, SolidWorks, Unity
 **Languages**                                    | Romanian, English
-**Certifications**                               | Fundamentals of Databricks Lakehouse Platform Acreditation July 2023
+**Certifications**                               | CompTIA Security+ ce certification, April 2024
                                                  | New Horizons Python with Data Science Course, June 2020
 **Awards**                                       | MIT Hacking Medicine Grand Hack 2020 Prize Winner
 
 ---
 
 ## Professional Experience
+
+**ICF** | **Remote**
+:---------------------------------|-----------------:
+**Software Engineer**| **November 2023 - Present**
+
+**CISA Data Science ART Team** |
+Developed tools for threat detections and vulnerability prevelance using pyspark. Drafted work in jupyter notebooks, then deployment pipelines using github jenkins, and AWS. Created an analytical tool for logging data on daily trends accross a variety of incoming data sources. Helped to distribute tasking to team members, added to the array of gathered statistics and improved runtimes for larger dataset analytics. Presented statistical information about a variety of new security datasets collected by a variety of organizations. Created a UI for searching specific vulnerabilities or product names a accross a series incoming data sources.
 
 **IntelliBridge** | **Remote**
 :---------------------------------|-----------------:
