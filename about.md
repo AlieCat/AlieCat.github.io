@@ -42,7 +42,7 @@ width:100%}
 **Software Engineer**| **November 2023 - Present**
 
 **CISA Data Science ART Team** |
-Developed tools for threat detections and vulnerability prevelance using pyspark. Drafted work in jupyter notebooks, then deployment pipelines using github jenkins, and AWS. Created an analytical tool for logging data on daily trends accross a variety of incoming data sources. Helped to distribute tasking to team members, added to the array of gathered statistics and improved runtimes for larger dataset analytics. Presented statistical information about a variety of new security datasets collected by a variety of organizations. Created a UI for searching specific vulnerabilities or product names a accross a series incoming data sources.
+Developed tools for threat detections using pyspark. Drafted work in jupyter notebooks, then deployment pipelines using github jenkins, and AWS. Created an analytical tool for logging data on daily trends accross a variety of incoming data sources. Helped to distribute tasking to team members, added to the array of gathered statistics and improved runtimes for larger dataset analytics. Presented statistical information about a variety of new security datasets collected by a variety of organizations. Created a UI for searching specific vulnerabilities or product names a accross a series incoming data sources. Used SQL, python, and AWS to help manage and maintain this prevelance detection tool.
 
 **IntelliBridge** | **Remote**
 :---------------------------------|-----------------:
